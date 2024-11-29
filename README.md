@@ -1,4 +1,4 @@
-# SwiftBelt 123
+# SwiftBelt
 
 ## About
 
